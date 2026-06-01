@@ -110,12 +110,3 @@ The database is seeded with two roles. You can log in using these credentials:
 | **Inspector (Maria)** | `maria@platform.com` | `inspector123` |
 
 ---
-
-## 📂 Challenges and Guides
-
-Go to the [/challenges](file:///Users/felipefaria/devel/be_ready/asset-inspection-platform/challenges) directory to view instructions for locating and fixing the bugs:
-- **Challenge 1 (N+1 Query):** Read [bug-01.md](file:///Users/felipefaria/devel/be_ready/asset-inspection-platform/challenges/bug-01.md).
-- **Challenge 2 (Memory Leak):** Read [bug-02.md](file:///Users/felipefaria/devel/be_ready/asset-inspection-platform/challenges/bug-02.md).
-- **Hidden Challenges (Other 3 bugs):** Read [hidden.md](file:///Users/felipefaria/devel/be_ready/asset-inspection-platform/challenges/hidden.md).
-
-For design details and API documentation, refer to the [/docs](file:///Users/felipefaria/devel/be_ready/asset-inspection-platform/docs) folder.
